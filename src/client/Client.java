@@ -29,7 +29,7 @@ public class Client {
         }
       
         try {
-        File file = new File("/Users/mrabraham/Desktop/Mikroislemciler-DersNotu-02-2019.ppt");
+        File file = new File("/Users/mrabraham/Desktop/isim-soyisim.txt");
         //Users/mrabraham/Desktop/isim-soyisim.txt
         // Get the size of the file
         long length = file.length();
